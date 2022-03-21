@@ -37,15 +37,21 @@ h2 {
 }*/
 .card  {
 	display: flex;
+	background-color: whitesmoke;
+	padding: 10px;
 	flex-direction: column;
-	justify-content: center;
-	border: 1px lightgrey;
+	justify-content: space-around;
+	align-items: 	center	;
+	/*border: 1px lightgrey;*/
 	text-align: center;
 	font-size: 20px;
     font-weight: initial;
     font-family: calibri;
-    color: grey;
+    color: black;
 }
+/*.i {
+
+}*/
 /*.t {
  	text-align: center;
 	font-size: 20px;
@@ -59,6 +65,11 @@ h2 {
  	color: grey;
 }
 .f {
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+	padding: 2px;
+	border: 2px lightgrey;
  	text-align: center;
 	font-size: 15px;
     font-weight: initial;
