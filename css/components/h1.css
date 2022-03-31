@@ -1,9 +1,9 @@
-/* h2.css */
+/* h1.css */
 
-h2 {
+h1{
   text-align: center;
   font-family: 'Courier', serif;
-  color: black;
+  color: darkorange;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 40px;
 }
