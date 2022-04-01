@@ -1,0 +1,9 @@
+/*avatar.css */
+.avatar {
+	border-radius: 50%;
+	width: 200px;
+}
+.dropdown {
+	text-align:left;
+	padding:20px;
+}
