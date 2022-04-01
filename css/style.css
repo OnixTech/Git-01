@@ -8,14 +8,3 @@
 /*@import url("components/a.css");*/
 /*@import url("components/footer.css");*/
 
-.f {
-    display: flex;
-    flex-direction: column;
-	justify-content: center;
-	padding: 2px;
-	border: 2px lightgrey;
- 	text-align: center;
-	font-size: 15px;
-    font-weight: initial;
-    font-family: calibri;
-}
